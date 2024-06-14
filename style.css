@@ -1,0 +1,97 @@
+
+.wrapper{
+    border: 5 px solid black;
+}
+.header{
+    background-color: aquamarine;
+    height: 60 px;
+}
+
+.main{
+    background-color: blanchedalmond;
+    height: 500 px;
+}
+.footer{
+    background-color: rgba(211, 116, 116, 0.671);
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    }
+
+.menu{
+    background-color: rgba(122, 176, 192, 0.877);
+    height: 100 px ;
+
+
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    height: 100%;
+}
+
+.actual{
+    width: 40%;
+    border: 2 px solid rgb(43, 58, 77);
+    text-align: center;
+}
+
+.recomendation{
+    width: 40%;
+    border: 2 px solid rgb(43, 58, 77);
+    text-align: center;
+}
+
+.archive{
+    width: 40%;
+    border: 2 px solid rgb(43, 58, 77);
+    text-align: center;
+}
+
+
+
+.news{
+    margin-top: 0 px;
+}
+
+
+p{
+    font-size: 20px;
+    font-style: italic;
+}
+
+
+
+body{
+    background-color: rgba(147, 192, 212, 0.582);
+}
+
+h1{
+    color: #052035d3;
+    font-size: 25px;
+    font-style: inherit;
+    border: 3px solid rgba(12, 80, 107, 0.637);
+}
+
+h2{
+    font-style: oblique ;
+}
+
+h3{
+    font-style: italic;
+}
+
+
+
+.red{
+    border: 20px solid red;
+}
+
+white{
+    border: 20px solid white;
+}
+
+green{
+    border: 20px solid green;
+}
